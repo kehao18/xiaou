@@ -1,0 +1,140 @@
+
+.lg{
+    width: 100%;
+    background-color: #ff6a6c;
+}
+.lg-o{
+    width: 1200px;
+    /* height: 450px; */
+    margin: 0 auto;
+    /* border: 1px solid red; */
+}
+.for{
+    width: 350px;
+    height: 375px;
+    background-color: white;
+    margin-top: 35px;
+}
+.for-o{
+    width: 285px;
+    height: 275px;
+    /* border: 1px solid red; */
+    margin: 25px auto;
+}
+.pox{
+    margin-top: 10px;
+    position: relative;
+}
+.pox input[type="text"]{
+    width: 245px;
+    height: 40px;
+    padding-left: 40px;
+    border: 1px solid #ff6a6c;
+    
+}
+.for-o .a{
+
+    display: inline-block;
+    width: 26px;
+    height: 28px;
+    
+    background: url(../images/xing.png) no-repeat;
+    position: absolute;
+    top: 6px;
+    left: 4px;
+}
+.pox2{
+    position: relative;
+    margin-top: 10px;
+}
+.pox2 input[type="password"]{
+    width: 245px;
+    height: 40px;
+    padding-left: 40px;
+    border: 1px solid #ff6a6c;
+    
+}
+.for-o .b{
+    
+    display: inline-block;
+    width: 26px;
+    height: 28px;
+    background: url(../images/mima.png) no-repeat;
+    position: absolute;
+    top: 7px;
+    left: 5px;
+}
+.pox3{
+    margin-top: 10px;
+}
+.pox3 input[type="text"]{
+    width: 205px;
+    height: 40px;
+    padding-left: 10px;
+    border: 1px solid #ff6a6c;
+    
+}
+.pox4{
+    margin-top: 20px;
+}
+.pox4 input[type="submit"]{
+    width: 285px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+    background-color:#f26b11;
+    color: white;
+}
+.pox5{
+    width: 285px;
+    /* height: 20px; */
+    /* border: 1px solid red; */
+    margin-top: 5px;
+}
+.pox5 input[type="checkbox"]{
+    float: left;
+    margin-top: 2px;
+}
+.pox5 a{
+    text-align: left;
+    font-size: 12px;
+    float: left;
+}
+.pox5 span{
+    display:block;
+    text-align: right;
+    font-size: 12px;
+    float: right;
+}
+.qvv{
+    width: 285px;
+    height: 18px;
+    /* border: 1px solid red; */
+    margin: 15px auto;
+}
+.qvv img{
+    float: left;
+    width: 140px;
+}
+.qvv span{
+    display:block;
+    text-align: right;
+    font-size: 12px;
+    float: right;
+}
+.bt{
+    width:100%;
+}
+.icpA{
+    /* width: 580px; */
+    /* height: 80px;
+    border: 1px solid red; */
+    margin: 0 auto;
+    color: #a7a7a7;
+    font-size: 8px;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 100px;
+}
+
+

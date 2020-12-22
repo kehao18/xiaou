@@ -1,0 +1,355 @@
+.shouye{
+    width: 100%;
+    /* height: 100px; */
+    border-top: 2px solid #f16905;
+}
+.shouye-o{
+    width: 1190px;
+    height: 50px;
+    /* border: 1px solid blue; */
+    margin: 0 auto;
+    line-height: 50px;
+    font-size: 12px;
+}
+/* 电视展示 */
+.tvb{
+    width: 100%;
+}
+.tvb-o{
+    width: 1190px;
+    /* height: 800px; */
+    margin: 0 auto;
+    /* border: 1px solid red; */
+}
+.tvb-l{
+    width: 425px;
+    /* border: 1px solid blue; */
+    
+}
+
+.lb{
+    width: 425px;
+    height: 70px;
+    /* border: 1px solid red; */
+    margin-top: 5px;
+}
+.tg img{
+    width: 65px;
+    height: 65px;
+    /* border: 1px solid black; */
+    margin-left: 8px;
+}
+.tg:hover img{
+    border: 2px solid #f16905;
+}
+.lb7{
+    margin-left: 10px;
+}
+
+
+
+
+
+.tvb-r{
+    width: 745px;
+    /* border: 1px solid blue; */
+
+    
+}
+.jian{
+    width: 680px;
+    height: 55px;
+    /* border: 1px solid red; */
+    line-height: 25px;
+}.jian a{
+    color:#f16905 ;
+    text-decoration: unset;
+}
+.jiage{
+    position: relative;
+    width: 745px;
+    height: 130px;
+    margin-top: 20px;
+    background-color: #fdf8f4;
+    overflow: hidden;
+}
+.jiao{
+    position: absolute;
+    left: 187px;
+    top: 41px;
+}
+.jg_o{
+    width: 710px;
+    height: 85px;
+    /* border: 1px solid black; */
+    margin: 20px auto;
+    font-size: 12px;
+    color: gray;
+    line-height: 30px;
+    position: relative;
+}
+.xixi{
+    width: 80px;
+    height: 20px;
+    /* border: 1px solid red; */
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.xinhao{
+    width: 610px;
+    height: 75px;
+    /* border: 1px solid blue; */
+    margin-top: 25px;
+}
+.xinhao_a{
+    width: 610px;
+    height: 30px;
+    /* border: 1px solid red; */
+    
+}
+.xhao1{
+    width: 250px;
+    height: 30px;
+    border: 1px solid #ececec;
+    text-align: center;
+    line-height: 30px;
+    color: gray;
+    margin-left: 15px;
+    font-size: 12px;
+}
+.xhao2{
+    width: 250px;
+    height: 30px;
+    border: 1px solid #ececec;
+    text-align: center;
+    line-height: 30px;
+    color: gray;
+    margin-left: 15px;
+    font-size: 12px;
+}
+.xhao1:hover{
+    border: 2px solid #f16905;
+    color: #f16905;
+}
+.xhao2:hover{
+    border: 2px solid #f16905;
+    color: #f16905;
+}
+.koh{
+    margin-top: 10px;
+}
+.ko{
+    margin-left: 80px;
+}
+.shuliang{
+    margin-top: 15px;
+}
+.shu{
+    margin-left: 14px;
+}
+.goumai{
+    width: 400px;
+    height: 45px;
+    /* border: 1px solid red; */
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.goumai input[type="button"]{
+    width: 185px;
+    height: 45px;
+    background-color: #f16905;
+    color: white;
+}
+.goumai input[type="submit"]{
+    width: 185px;
+    height: 45px;
+    border: 1px solid #f16905;
+    color: #f16905;
+    margin-left: 15px;
+}
+/* 商品介绍 */
+.sping{
+    width: 100%;
+}
+.sping-o{
+    width: 1190px;
+    /* height: 800px; */
+    /* border: 1px solid yellowgreen; */
+    margin: 25px auto;
+}
+.menu-l{
+    width: 210px;
+    height: 1220px;
+    border-top: 2px solid #f16905;
+    border-left: 1px solid #e4e4e4;
+    border-bottom: 1px solid #e4e4e4;
+    border-right: 1px solid #e4e4e4;
+}
+.ma{
+    width: 175px;
+    height: 1220px;
+    /* border: 1px solid #e4e4e4; */
+    margin: 0 auto;
+}
+.ma-o{
+    width: 175px;
+    height: 240px;
+    /* border: 1px solid royalblue; */
+    font-size: 12px;
+    line-height: 20px;
+}
+.ma-o .col{
+    color: #f16905;
+}
+/* 右 */
+.canshu{
+    width: 970px;
+    /* height: 100px; */
+    /* border: 1px solid red; */
+}
+.canshu-a{
+    width: 424px;
+    height: 39px;
+    border: 1px solid #e3e3e3;
+    
+
+}
+.canshu1{
+    /* top: -2px;
+    position: absolute; */
+    width: 110px;
+    height: 40px;
+    border-top: 1px solid #f16905;
+    text-align: center;
+    font-size: 14px;
+    color:#f16905 ;
+    line-height: 40px;
+    font-weight: bold;
+}
+.canshu2{
+    width: 150px;
+    height: 39px;
+    border: 1px solid #e4e4e4;
+    line-height: 40px;
+    text-align: center;
+
+
+}
+.canshu3{
+    width: 110px;
+    height: 39px;
+    border: 1px solid #e4e4e4;
+    line-height: 40px;
+    text-align: center;
+}
+.canshu4 input[type="button"]{
+    width: 170px;
+    height: 40px;
+    background-color: #f16905;
+    color: white;
+    font-size: 20px;
+}
+
+.jies{
+    position: relative;
+    width: 970px;
+    height: 250px;
+    border: 1px solid #e3e3e3;
+    /* margin-top: 5px; */
+    font-size: 12px;
+}
+.x{
+    top: -3px;
+    position: absolute;
+    width: 110px;
+    height: 4px;
+    background-color: #f16905;
+}
+.jies dl{
+    width: 250px;
+    height: 170px;
+    /* border: 1px solid red; */
+    line-height: 30px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.datu{
+    width: 970px;
+    /* height: 800px; */
+    /* border: 1px solid blue; */
+}
+.datu1{
+    width: 800px;
+    border-bottom: 1px solid #e3e3e3;
+}
+.datu2{
+    width: 150px;
+    height: 800px;
+    border: 1px solid #e3e3e3;
+    background-color: #f6f6f6;
+}
+.lj{
+    width: 100px;
+    /* height: 310px;
+    border: 1px solid red; */
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 50px;
+    position: relative;
+    color: grey;
+}
+.lj-1{
+    width: 90px;
+    height: 200px;
+    border-left: 1px solid #e3e3e3;
+    position: absolute;
+    left: 5px;
+    top: 25px;
+}
+.lj-o{
+    width: 10px;
+    height: 10px;
+    background-color: #f16905;
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    top: 20px;
+}
+.lj-o2{
+    width: 10px;
+    height: 10px;
+    background-color: #f16905;
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    top: 70px;
+}
+.lj-o3{
+    width: 10px;
+    height: 10px;
+    background-color: #f16905;
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    top: 120px;
+}
+.lj-o4{
+    width: 10px;
+    height: 10px;
+    background-color: #f16905;
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    top: 168px;
+}
+.lj-o5{
+    width: 10px;
+    height: 10px;
+    background-color: #f16905;
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    top: 220px;
+}

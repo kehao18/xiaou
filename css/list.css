@@ -1,0 +1,287 @@
+.shouye{
+    width: 100%;
+    /* height: 100px; */
+    border-top: 2px solid #f16905;
+}
+.shouye-o{
+    width: 1190px;
+    height: 50px;
+    /* border: 1px solid blue; */
+    margin: 0 auto;
+    line-height: 50px;
+    font-size: 12px;
+}
+.shouye-o .op{
+    display: inline-block;
+    width: 150px;
+    height: 25px;
+    border: 1px dotted #f16905;
+    line-height: 25px;
+    color:#f16905 ;
+}
+/* 电视选项 */
+.tvx{
+    width: 100%;
+}
+.tvx_o{
+    width: 1190px;
+    /* height: 40px; */
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+.tvx-s{
+    width: 1190px;
+    /* height: 40px; */
+    border-bottom: 1px solid #e5e4e2;
+}
+.tvx-s li{
+    /* border-bottom: 1px solid red; */
+    width: 60px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    padding-left: 12px;
+    float: left;
+    font-size: 12px;
+}
+.tvx-s .a{
+    width: 115px;
+    
+    background-color: #fcf7f4;
+}
+.tvx_o .b{
+   float: right;
+}
+.tvx-s .g{
+    width: 115px;
+    height: 60px;
+    background-color: #fcf7f4;
+}
+
+.tvw li{
+    width: 80px;
+}
+.tvb li{
+    width: 90px;
+}
+.tvl li{
+    width: 90px;
+}
+.geng{
+    width: 70px;
+    height: 35px;
+    /* border: 1px solid red; */
+    float: right;
+    text-align: center;
+    line-height: 35px;
+    font-size: 12px;
+}
+/* 商品推荐 */
+.menu{
+    margin-top: 20px;
+    width: 100%;
+}
+.menu-o{
+    width: 1190px;
+    margin: 0 auto;
+}
+.menu-l{
+    width: 210px;
+    height: 1220px;
+    border-top: 2px solid #f16905;
+    border-left: 1px solid #e4e4e4;
+    border-bottom: 1px solid #e4e4e4;
+    border-right: 1px solid #e4e4e4;
+}
+
+.ma{
+    width: 175px;
+    height: 1220px;
+    /* border: 1px solid #e4e4e4; */
+    margin: 0 auto;
+}
+.ma-o{
+    width: 175px;
+    height: 240px;
+    /* border: 1px solid royalblue; */
+    font-size: 12px;
+    line-height: 20px;
+}
+.ma-o .col{
+    color: #f16905;
+}
+.menu-r{
+    width: 970px;
+    /* height: 500px; */
+    border-left: 1px solid #e3e3e3;
+    border-right: 1px solid #e3e3e3;
+    border-bottom: 1px solid #e3e3e3;
+}
+.men-top{
+    width: 969px;
+    height: 42px;
+    border: 1px solid #fcf7f4;
+    background-color: #fcf7f4;
+}
+.men-tol{
+    width: 217px;
+    height: 25px;
+    /* border: 1px solid #d8d6d7; */
+}
+.men-tol span{
+    display:block;
+    width: 52px;
+    height: 25px;
+    border: 1px solid #d8d6d7;
+    float: left;
+    text-align: center;
+    line-height: 25px;
+    font-size: 12px;
+    margin-top: 6px;
+}
+.men-tor{
+    width: 155px;
+    height: 25px;
+    /* border: 1px solid #d8d6d7; */
+    font-size: 12px;
+    text-align: center;
+    line-height:25px;
+    margin-top: 6px;
+}
+/* 电视商品表 */
+.scy{
+    width:970px;
+    /* height:700px; */
+    /* border: 1px solid chartreuse; */
+}
+.scy-a{
+    width: 970px;
+    /* height: 390px; */
+    border: 1px solid transparent;
+}
+
+.scy-a_1 img{
+    margin-left: 5px;
+    margin-top: 15px;
+}
+    
+.scy-a_1{
+    width: 237px;
+    height: 390px;
+    /* border: 2px solid #f16905; */
+    font-size: 12px;
+    margin-left: 4px;
+}
+.scy-a_1 .p1{
+    font-size: 16px;
+    color: #f16905;
+    line-height: 35px;
+    padding-left: 15px;
+}
+.scy-a_1 .p2{
+    line-height: 25px;
+    color: #f16905;
+    padding-left: 15px;
+   
+}
+.scy-a_1 .p4{
+    padding-left: 15px;
+   
+}
+.scy-a_1 .p3{
+    padding-left: 15px;  
+  color: gray;
+   
+}
+/* .scy-a_2{
+    width: 237px;
+    height: 390px;
+    border: 2px solid #f16905;
+}
+.scy-a_3{
+    width: 237px;
+    height: 390px;
+    border: 2px solid #f16905;
+}
+.scy-a_4{
+    width: 237px;
+    height: 390px;
+    border: 2px solid #f16905;
+} */
+.go-so{
+    width: 300px;
+    height: 30px;
+    /* border: 1px solid rebeccapurple; */
+    text-align: center;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.che{
+   width: 30px;
+    height: 30px;
+    border: 1px solid #d8d8d8;
+  
+}
+
+.go{
+    width: 100px;
+    height: 30px;
+    border: 1px solid #d8d8d8;
+    
+}
+.so{
+    width: 85px;
+    height: 30px;
+    border: 1px solid #d8d8d8;
+}
+.so span{
+    font-size: 17px;
+}
+
+/* hovr */
+.hov:hover{
+    border: 2px solid #f16905;
+    width: 235px;
+    height: 390px;
+
+}
+/* 翻页 */
+.scroll{
+    width: 100%;
+}
+.scroll-o{
+    width: 1190px;
+    height: 110px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+.fanye{
+    width: 400px;
+    height: 30px;
+    /* border: 1px solid red; */
+    margin: 35px auto;
+}
+.fanye1{
+    width: 78px;
+    height: 30px;
+    border: 1px solid #d8d8d8;
+    text-align: center;
+    line-height: 30px;
+}
+.fanye8{
+    width: 78px;
+    height: 30px;
+    border: 1px solid #d8d8d8;
+    margin-left: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.yee{
+    width: 30px;
+    height: 30px;
+    border: 1px solid #d8d8d8;
+    margin-left: 10px;
+   
+     text-align: center;
+    line-height: 30px;
+}
